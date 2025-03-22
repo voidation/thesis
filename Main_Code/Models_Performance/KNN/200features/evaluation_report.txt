@@ -1,0 +1,17 @@
+Accuracy: 0.5441176470588235
+Precision (Class 1): 0.5384615384615384, Recall (Class 1): 0.6176470588235294
+Precision (Class 0): 0.5517241379310345, Recall (Class 0): 0.47058823529411764
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.55      0.47      0.51        34
+           1       0.54      0.62      0.58        34
+
+    accuracy                           0.54        68
+   macro avg       0.55      0.54      0.54        68
+weighted avg       0.55      0.54      0.54        68
+
+Confusion Matrix:
+[[16 18]
+ [13 21]]
